@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e136d06-ccb7-4b14-bd46-14070758a9cb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TwinRaven$SimpleNetworkClientSample.coverage" NAME="SimpleNetworkClientSample Coverage Results" MODIFIED="1515282658194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TwinRaven$TwinRavenApplication.ic" NAME="TwinRavenApplication Coverage Results" MODIFIED="1544138578367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TwinRaven$DataTest.coverage" NAME="DataTest Coverage Results" MODIFIED="1524083106616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="STOCK_SEARCHES" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="STOCK_SEARCHES" type="feb32156:DbDataSourceImpl" />
+        <item name="APP: schema" type="6aa84934:DerbyImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="STOCK_SEARCHES" type="feb32156:DbDataSourceImpl" />
+        <item name="APP: schema" type="6aa84934:DerbyImplModel$Schema" />
+        <item name="STOCK_SEARCHES: table" type="3b012a07:DerbyImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1geBM3lTW9H96GjlFNzcRy1QIg1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Derby (Remote)" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CIS126" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.TwinRavenApplication">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DBITester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DBITester" />
+      <module name="TwinRaven" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="recording" autostart="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTest" />
+      <module name="TwinRaven" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="recording" autostart="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FinalDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalDriver" />
+      <module name="TwinRaven" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="recording" autostart="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StringMethodTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringMethodTester" />
+      <module name="TwinRaven" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="recording" autostart="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwinRavenApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwinRavenApplication" />
+      <module name="TwinRaven" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="recording" autostart="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="recording" autostart="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="recording" autostart="true" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <extension name="recording" autostart="true" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DBITester" />
+      <item itemvalue="Application.DataTest" />
+      <item itemvalue="Application.FinalDriver" />
+      <item itemvalue="Application.StringMethodTester" />
+      <item itemvalue="Application.TwinRavenApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwinRavenApplication" />
+        <item itemvalue="Application.FinalDriver" />
+        <item itemvalue="Application.StringMethodTester" />
+        <item itemvalue="Application.DataTest" />
+        <item itemvalue="Application.DBITester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e136d06-ccb7-4b14-bd46-14070758a9cb" name="Default" comment="" />
+      <created>1500337117167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500337117167</updated>
+      <workItem from="1513285661560" duration="4315000" />
+      <workItem from="1513320619853" duration="1119000" />
+      <workItem from="1513461178945" duration="690000" />
+      <workItem from="1513634185138" duration="819000" />
+      <workItem from="1513720513974" duration="1620000" />
+      <workItem from="1513820878487" duration="3343000" />
+      <workItem from="1514008293697" duration="843000" />
+      <workItem from="1514419740514" duration="74000" />
+      <workItem from="1514499559479" duration="621000" />
+      <workItem from="1514584825172" duration="102000" />
+      <workItem from="1515156783869" duration="618000" />
+      <workItem from="1515276895188" duration="4364000" />
+      <workItem from="1515283313000" duration="1714000" />
+      <workItem from="1515622414990" duration="44000" />
+      <workItem from="1515622484491" duration="361000" />
+      <workItem from="1515695274578" duration="625000" />
+      <workItem from="1515795444344" duration="73000" />
+      <workItem from="1515966965104" duration="1554000" />
+      <workItem from="1515995040993" duration="1724000" />
+      <workItem from="1516054144835" duration="1349000" />
+      <workItem from="1516145577169" duration="4797000" />
+      <workItem from="1516225257265" duration="1226000" />
+      <workItem from="1516343776038" duration="61000" />
+      <workItem from="1516685815110" duration="109000" />
+      <workItem from="1516742895829" duration="3614000" />
+      <workItem from="1516847823187" duration="623000" />
+      <workItem from="1516914867799" duration="6437000" />
+      <workItem from="1517291961795" duration="628000" />
+      <workItem from="1517446622118" duration="642000" />
+      <workItem from="1517543396836" duration="55000" />
+      <workItem from="1518567981287" duration="624000" />
+      <workItem from="1518641556911" duration="619000" />
+      <workItem from="1519002014125" duration="130000" />
+      <workItem from="1519179769176" duration="646000" />
+      <workItem from="1519266292427" duration="620000" />
+      <workItem from="1519353174273" duration="637000" />
+      <workItem from="1519779940040" duration="663000" />
+      <workItem from="1520130763446" duration="680000" />
+      <workItem from="1522631438613" duration="624000" />
+      <workItem from="1522719440676" duration="677000" />
+      <workItem from="1522805157765" duration="746000" />
+      <workItem from="1522892614125" duration="631000" />
+      <workItem from="1523066502357" duration="693000" />
+      <workItem from="1523322760335" duration="622000" />
+      <workItem from="1523383752827" duration="2948000" />
+      <workItem from="1523482378689" duration="4141000" />
+      <workItem from="1523557225999" duration="2915000" />
+      <workItem from="1523667622763" duration="670000" />
+      <workItem from="1523982280340" duration="719000" />
+      <workItem from="1524079607131" duration="5090000" />
+      <workItem from="1524143335167" duration="2427000" />
+      <workItem from="1524156364616" duration="5373000" />
+      <workItem from="1524226085967" duration="579000" />
+      <workItem from="1524247108206" duration="4575000" />
+      <workItem from="1524508891658" duration="1218000" />
+      <workItem from="1524672150775" duration="2155000" />
+      <workItem from="1524859160885" duration="3757000" />
+      <workItem from="1525281346777" duration="1449000" />
+      <workItem from="1525288251545" duration="89000" />
+      <workItem from="1525288367141" duration="581000" />
+      <workItem from="1525288984628" duration="78000" />
+      <workItem from="1525289088556" duration="2219000" />
+      <workItem from="1525473222878" duration="1955000" />
+      <workItem from="1525475221143" duration="6653000" />
+      <workItem from="1525721428112" duration="70000" />
+      <workItem from="1525807333661" duration="6856000" />
+      <workItem from="1525815185785" duration="118000" />
+      <workItem from="1526062111029" duration="3733000" />
+      <workItem from="1526312537308" duration="954000" />
+      <workItem from="1526317644222" duration="1173000" />
+      <workItem from="1526400038406" duration="3290000" />
+      <workItem from="1526485443721" duration="1465000" />
+      <workItem from="1526494428650" duration="1257000" />
+      <workItem from="1526577468764" duration="1012000" />
+      <workItem from="1526735066017" duration="1007000" />
+      <workItem from="1526931947592" duration="701000" />
+      <workItem from="1526997725583" duration="1235000" />
+      <workItem from="1527023403818" duration="123000" />
+      <workItem from="1527194299590" duration="1775000" />
+      <workItem from="1527271000412" duration="9000" />
+      <workItem from="1527631649822" duration="85000" />
+      <workItem from="1527802334293" duration="105000" />
+      <workItem from="1527904535002" duration="88000" />
+      <workItem from="1528145540165" duration="313000" />
+      <workItem from="1528233815999" duration="642000" />
+      <workItem from="1528294605433" duration="98000" />
+      <workItem from="1528294734404" duration="947000" />
+      <workItem from="1528482079177" duration="648000" />
+      <workItem from="1528589436387" duration="498000" />
+      <workItem from="1528741704275" duration="41000" />
+      <workItem from="1528741881632" duration="359000" />
+      <workItem from="1528743180845" duration="874000" />
+      <workItem from="1528835864676" duration="79000" />
+      <workItem from="1529011108246" duration="865000" />
+      <workItem from="1529073658399" duration="616000" />
+      <workItem from="1529076424045" duration="2016000" />
+      <workItem from="1529093341229" duration="61000" />
+      <workItem from="1529108767492" duration="142000" />
+      <workItem from="1529357789034" duration="620000" />
+      <workItem from="1529417222689" duration="17000" />
+      <workItem from="1529445253878" duration="730000" />
+      <workItem from="1529506372288" duration="154000" />
+      <workItem from="1529543958581" duration="78000" />
+      <workItem from="1529590921770" duration="64000" />
+      <workItem from="1529780562250" duration="137000" />
+      <workItem from="1529780731614" duration="2821000" />
+      <workItem from="1529794955084" duration="36000" />
+      <workItem from="1529842118301" duration="15000" />
+      <workItem from="1529862080180" duration="535000" />
+      <workItem from="1529862716950" duration="1538000" />
+      <workItem from="1529864638781" duration="317000" />
+      <workItem from="1529871731814" duration="5832000" />
+      <workItem from="1530042518073" duration="634000" />
+      <workItem from="1530052921224" duration="6000" />
+      <workItem from="1530133362187" duration="736000" />
+      <workItem from="1530197597266" duration="8020000" />
+      <workItem from="1530307615957" duration="868000" />
+      <workItem from="1530389723610" duration="7736000" />
+      <workItem from="1530400469339" duration="4504000" />
+      <workItem from="1530469030266" duration="443000" />
+      <workItem from="1530469632578" duration="1016000" />
+      <workItem from="1530481833465" duration="6053000" />
+      <workItem from="1530564951605" duration="16000" />
+      <workItem from="1530565018629" duration="24000" />
+      <workItem from="1530565657064" duration="472000" />
+      <workItem from="1530674112206" duration="20000" />
+      <workItem from="1530741576482" duration="5476000" />
+      <workItem from="1530825215906" duration="14000" />
+      <workItem from="1530830788225" duration="1875000" />
+      <workItem from="1531174055846" duration="1435000" />
+      <workItem from="1531260903043" duration="677000" />
+      <workItem from="1531317393447" duration="17000" />
+      <workItem from="1531331132932" duration="5182000" />
+      <workItem from="1531529088181" duration="704000" />
+      <workItem from="1531690945681" duration="358000" />
+      <workItem from="1531789113461" duration="825000" />
+      <workItem from="1531873085610" duration="639000" />
+      <workItem from="1531954832207" duration="1148000" />
+      <workItem from="1532040735061" duration="789000" />
+      <workItem from="1532120594278" duration="631000" />
+      <workItem from="1532385515872" duration="1343000" />
+      <workItem from="1532443247835" duration="4096000" />
+      <workItem from="1532558315234" duration="624000" />
+      <workItem from="1532726800168" duration="632000" />
+      <workItem from="1532989945875" duration="647000" />
+      <workItem from="1533247766755" duration="1213000" />
+      <workItem from="1533337383745" duration="614000" />
+      <workItem from="1533509371891" duration="21000" />
+      <workItem from="1534023151990" duration="635000" />
+      <workItem from="1534085383346" duration="1186000" />
+      <workItem from="1534205031588" duration="593000" />
+      <workItem from="1534281673664" duration="27000" />
+      <workItem from="1534464039678" duration="1209000" />
+      <workItem from="1534545164976" duration="39000" />
+      <workItem from="1534549657506" duration="619000" />
+      <workItem from="1534807346276" duration="621000" />
+      <workItem from="1534886388156" duration="344000" />
+      <workItem from="1534976474713" duration="657000" />
+      <workItem from="1535063530822" duration="741000" />
+      <workItem from="1535144397865" duration="627000" />
+      <workItem from="1535408233304" duration="617000" />
+      <workItem from="1535499067915" duration="1208000" />
+      <workItem from="1535754324574" duration="655000" />
+      <workItem from="1536254007999" duration="1095000" />
+      <workItem from="1536534205161" duration="1022000" />
+      <workItem from="1536619498839" duration="1932000" />
+      <workItem from="1536788914829" duration="19000" />
+      <workItem from="1536791367526" duration="612000" />
+      <workItem from="1536886072835" duration="1189000" />
+      <workItem from="1537138883679" duration="2964000" />
+      <workItem from="1537391637708" duration="628000" />
+      <workItem from="1537474006703" duration="631000" />
+      <workItem from="1537559213668" duration="11907000" />
+      <workItem from="1537756662191" duration="596000" />
+      <workItem from="1537824838408" duration="1368000" />
+      <workItem from="1537912884486" duration="645000" />
+      <workItem from="1537995242100" duration="634000" />
+      <workItem from="1538081009777" duration="11469000" />
+      <workItem from="1538166877744" duration="638000" />
+      <workItem from="1538425459455" duration="748000" />
+      <workItem from="1538514113438" duration="4326000" />
+      <workItem from="1538606717913" duration="2115000" />
+      <workItem from="1539135848341" duration="1219000" />
+      <workItem from="1539220316976" duration="1100000" />
+      <workItem from="1539296860739" duration="1043000" />
+      <workItem from="1539383507859" duration="676000" />
+      <workItem from="1539646251538" duration="729000" />
+      <workItem from="1539724969681" duration="623000" />
+      <workItem from="1539819268167" duration="1096000" />
+      <workItem from="1539910859664" duration="617000" />
+      <workItem from="1540249572907" duration="1207000" />
+      <workItem from="1540413990096" duration="1188000" />
+      <workItem from="1540515255462" duration="1227000" />
+      <workItem from="1540589035311" duration="634000" />
+      <workItem from="1540847408918" duration="645000" />
+      <workItem from="1540933571123" duration="1228000" />
+      <workItem from="1541018503428" duration="691000" />
+      <workItem from="1541109968060" duration="632000" />
+      <workItem from="1541192731628" duration="610000" />
+      <workItem from="1541453593421" duration="618000" />
+      <workItem from="1541541234120" duration="616000" />
+      <workItem from="1541638555278" duration="1251000" />
+      <workItem from="1541713678616" duration="774000" />
+      <workItem from="1542061673207" duration="1229000" />
+      <workItem from="1542156770192" duration="643000" />
+      <workItem from="1542231656911" duration="401000" />
+      <workItem from="1542319523381" duration="653000" />
+      <workItem from="1542408485199" duration="616000" />
+      <workItem from="1542662272351" duration="611000" />
+      <workItem from="1542756437841" duration="672000" />
+      <workItem from="1542835836541" duration="618000" />
+      <workItem from="1543021424806" duration="613000" />
+      <workItem from="1543264441779" duration="459000" />
+      <workItem from="1543887782334" duration="1251000" />
+      <workItem from="1543967963499" duration="653000" />
+      <workItem from="1544138564081" duration="1366000" />
+      <workItem from="1544144900477" duration="2228000" />
+      <workItem from="1544233535890" duration="645000" />
+      <workItem from="1544495968825" duration="2379000" />
+      <workItem from="1598465133411" duration="109000" />
+      <workItem from="1598532996777" duration="2227000" />
+      <workItem from="1599489051307" duration="51000" />
+      <workItem from="1599489200633" duration="1221000" />
+      <workItem from="1599499869572" duration="2029000" />
+      <workItem from="1599573313415" duration="1881000" />
+      <workItem from="1608563222396" duration="2458000" />
+      <workItem from="1608617691630" duration="13997000" />
+      <workItem from="1608709835488" duration="9772000" />
+      <workItem from="1608912535327" duration="2816000" />
+      <workItem from="1609136537411" duration="7465000" />
+      <workItem from="1609233016868" duration="653000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WebInteractor.java</url>
+          <line>183</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TwinRaven</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>External Libraries</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

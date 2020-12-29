@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="External Libraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/External Libraries/httpcore-4.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/httpcore-ab-4.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/httpclient-win-4.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/jsoup-1.10.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/jna-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/jsoup-1.10.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/httpclient-cache-4.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/httpclient-4.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/httpcore-nio-4.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/json-20160810.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/fluent-hc-4.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/jsoup-1.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/gson-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/httpmime-4.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/jna-platform-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External Libraries/json-20140107.jar!/" />
+      <root url="file://$PROJECT_DIR$/External Libraries" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/External Libraries" recursive="false" />
+  </library>
+</component>
